@@ -1,8 +1,9 @@
-- 🐐 Hi, I’m Yippy Skippy
-- 😎 I’m interested in mixnets
+- 🐐 Hello, i'm Yippy Skippy
+- 😎 I am interested in mixnets
 - 🌱 I’m currently learning Go
 - 💞️ I’m dreamin' of wide open pastures with no barbed wire fences
-- 💻 looking to collaborate on Katzen Post
+- 🌐 I run a katzenpost node
+- 💻 looking to collaborate on katzenpost
 
 <!---
 yippyskippy/yippyskippy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
