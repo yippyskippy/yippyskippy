@@ -1,4 +1,6 @@
-- 🐐 Hello, i'm Yippy Skippy
+# 🐐 Hello, i'm Yippy Skippy
+
+- 🐐 I am a goat, sometimes
 - 😎 I am interested in mixnets
 - 🌱 I’m currently learning Go
 - 💞️ I’m dreamin' of wide open pastures with no barbed wire fences
